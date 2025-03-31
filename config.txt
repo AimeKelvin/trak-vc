@@ -1,5 +1,8 @@
 ;!@Install@!UTF-8!
-Title="Trak v1.0 Setup by Aime Kelvin"
-BeginPrompt="Install Trakterm v1.0? This will add it to your PATH."
+Title="Trak v1.0 Setup"
+BeginPrompt="Welcome to the Trak v1.0 Setup\n\nTrak is a simple Git-inspired version control system. by Aime Kelvin\nIt will be installed to %USERPROFILE%\\bin and added to your PATH.\n\nTHIS SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND.\nYOU USE IT AT YOUR OWN RISK.\n\nDo you want to install Trak v1.0?"
+GUIFlags="8+32"
+InstallButton="Install"
+CancelButton="Cancel"
 ExecuteFile="setup.bat"
 ;!@InstallEnd@!
