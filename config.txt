@@ -1,0 +1,5 @@
+;!@Install@!UTF-8!
+Title="Trak v1.0 Setup by Aime Kelvin"
+BeginPrompt="Install Trakterm v1.0? This will add it to your PATH."
+ExecuteFile="setup.bat"
+;!@InstallEnd@!
